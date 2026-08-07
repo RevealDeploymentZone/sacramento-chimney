@@ -155,6 +155,17 @@ ul { list-style: none; }
   gap: 10px;
   flex-shrink: 0;
 }
+.logo-img {
+  height: 56px;
+  width: auto;
+  display: block;
+}
+.footer-brand .logo-img {
+  height: 64px;
+  background: #fff;
+  border-radius: 8px;
+  padding: 4px;
+}
 .logo-text {
   display: flex;
   flex-direction: column;
