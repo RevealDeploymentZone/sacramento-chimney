@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Disallow admin or private paths (none currently)
+Disallow:
+
+# Sitemap
+Sitemap: https://sacramento-chimney.vercel.app/sitemap.xml
